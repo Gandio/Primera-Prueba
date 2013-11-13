@@ -1,0 +1,24 @@
+body{
+  background-color: #0B3B0B;
+}
+
+h1{
+  font-family: 'Joti One';
+}
+
+h2{
+  font-family: 'The Girl Next Door';
+}
+
+p{
+  color: #585858;
+}
+
+ul{
+  color: #585858;
+}
+
+blockquote{
+  font-style: italic;
+  color: #585858;
+}
