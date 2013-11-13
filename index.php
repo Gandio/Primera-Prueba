@@ -1,1 +1,1 @@
-<? php include_once("slytherin.html"); ?>
+<?php include_once("home.html"); ?>
